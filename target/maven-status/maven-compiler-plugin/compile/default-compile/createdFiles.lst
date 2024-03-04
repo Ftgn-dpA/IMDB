@@ -1,0 +1,5 @@
+com\qst\IMDB$IMDB_Reducer.class
+com\qst\IMDB$WriteDB.class
+com\qst\IMDB$Month_Genres.class
+com\qst\IMDB$IMDB_Mapper.class
+com\qst\IMDB.class
